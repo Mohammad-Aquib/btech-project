@@ -1,0 +1,86 @@
+.u-section-1 {
+  background-image: url("images/beach.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 511px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  text-decoration: underline !important;
+  margin: 20px 305px 0 auto;
+}
+
+.u-section-1 .u-form-1 {
+  height: 318px;
+  margin: 20px 236px 60px 334px;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 421px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 136px;
+    margin-left: 234px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 322px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 234px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 26px;
+    margin-left: 124px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 242px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 176px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 152px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 111px;
+  }
+}
